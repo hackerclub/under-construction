@@ -9,6 +9,9 @@ body {
   text-align:        center;
 }
 
+a:visited { color: #FFFFFF; }
+a:link { color: #FFFFFF; }
+
 pre {
   margin: 0 auto;
 }
