@@ -9,8 +9,9 @@ body {
   text-align:        center;
 }
 
-a:visited { color: #FFFFFF; }
 a:link { color: #FFFFFF; }
+a:visited { color: #FFFFFF; }
+a:hover { color: #37FF00; }
 
 pre {
   margin: 0 auto;
