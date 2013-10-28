@@ -31,3 +31,11 @@ pre {
   margin-top: 10px;
   margin-bottom: 30px;
 }
+
+.links {
+  margin-top: 20px;
+  line-height: 2em;
+  text-align: left;
+  width: 600px;
+  margin: auto auto;
+}
